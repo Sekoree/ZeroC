@@ -7,6 +7,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using System.Web;
+using ZeroC.Entities.JSON;
 using ZeroC.Enums;
 
 namespace ZeroC.Entities

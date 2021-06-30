@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ZeroC.Entities
+namespace ZeroC.Entities.JSON
 {
     public class ZCImage
     {

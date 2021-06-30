@@ -1,5 +1,6 @@
 # ZeroC
 A DotNet library to interact with ZeroChan! Utilizing their JSON API and HTML scraping for everything that the JSON API cant do (which is a lot)
+I realized I also have to mix and match some stuff with the XML API cause both have different sets of data
 
 ## General Info
 This is very indev, so far only only a few things are possible, but more will follow in the next few days/weeks!
